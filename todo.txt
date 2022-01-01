@@ -3,4 +3,5 @@
 3.study books.
 4.attend classes on time.
 5.visit aunt. 
-apply for remote jobs.
+6.apply for remote jobs.
+7.practice code
